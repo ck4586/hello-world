@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am murda45 on github.
+  * I am ck4586 (https://keybase.io/ck4586) on keybase.
+  * I have a public key ASAfScvaJbg6jJIiZLQB35smkxEtXAKUklvKkjGo__7WTAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f49cbda25b83a8c922264b401df9b2693112d5c0294925bca9231a8fffed64c0a",
+      "host": "keybase.io",
+      "kid": "01201f49cbda25b83a8c922264b401df9b2693112d5c0294925bca9231a8fffed64c0a",
+      "uid": "f0119d631f13bac943ca48d20be06119",
+      "username": "ck4586"
+    },
+    "merkle_root": {
+      "ctime": 1568362306,
+      "hash": "ee127aa11c25bf13d05f8ff8858f72709643a5fad36bdc588857b97480f4769544082a7eb37e86ef6bf4fd5a1f7849dc9189975b2ecd25af1400729eb5bdc567",
+      "hash_meta": "526187900b02f577d3a2d17f64379a7a5fad5899ff7b845f4488bbea2782eafe",
+      "seqno": 7119940
+    },
+    "service": {
+      "entropy": "8omTHuOpoRF0DONgfTRKJT8i",
+      "name": "github",
+      "username": "murda45"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568362316,
+  "expire_in": 504576000,
+  "prev": "43385f7b629793f7e77240379fb12ecf446a056773fb52e769991779429d4661",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASAfScvaJbg6jJIiZLQB35smkxEtXAKUklvKkjGo__7WTAo](https://keybase.io/ck4586), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgH0nL2iW4OoySImS0Ad+bJpMRLVwClJJbypIxqP/+1kwKp3BheWxvYWTESpcCCsQgQzhfe2KXk/fnckA3n7Euz0RqBWdz+1LnaZkXeUKdRmHEIKNaMfvP3XmQWwgttBk1k3Ah34lC5mCdKJowMCK600tLAgHCo3NpZ8RAjcHPJbmoC2KyEM5ihfAUpcvEHVgs56zigmMjpt0uuFQL9wAyqQVWXJ7JcXzjNXWe+Vs5DbDaAIe6KpGUg2c1B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEwmxJ2L0XwMqsshv2mJSgA39x/ynZbuVe8NoX+VKjNEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ck4586
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ck4586
+```
